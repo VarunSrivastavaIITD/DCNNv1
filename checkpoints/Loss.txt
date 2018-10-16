@@ -1,0 +1,43 @@
+100 files to be selected
+Selected 100 files
+84.0 116.0
+271787.0
+80 files to be selected
+Selected 80 files
+84.0 116.0
+33396.0
+Train Net Loss: 1086766.7440 BCE Loss 5.6366 MSE Loss 288.6504 Reconstruction Loss 1086732.2440 Mean Batch Misclassification 0.5250 GCI Misses 0.0234 @epoch 0
+
+Test set: BCE loss: 0.8618 MSE loss: 214.3685 Reconstruction loss 993084.5000 Mean Batch Misclassification 0.7364 GCI Misses 0.0001
+
+Train Net Loss: 1019418.8306 BCE Loss 0.8379 MSE Loss 188.5477 Reconstruction Loss 1019399.1371 Mean Batch Misclassification 0.7353 GCI Misses 0.0003 @epoch 1
+Train Net Loss: 1013750.5907 BCE Loss 0.7352 MSE Loss 179.1337 Reconstruction Loss 1013731.9415 Mean Batch Misclassification 0.5779 GCI Misses 0.0328 @epoch 2
+Train Net Loss: 1010847.2278 BCE Loss 0.4682 MSE Loss 177.0382 Reconstruction Loss 1010829.0585 Mean Batch Misclassification 0.1843 GCI Misses 0.0630 @epoch 3
+Train Net Loss: 1008245.7460 BCE Loss 0.3421 MSE Loss 173.7158 Reconstruction Loss 1008228.0242 Mean Batch Misclassification 0.0923 GCI Misses 0.0323 @epoch 4
+Train Net Loss: 1005782.4698 BCE Loss 0.3087 MSE Loss 172.5378 Reconstruction Loss 1005764.9093 Mean Batch Misclassification 0.0763 GCI Misses 0.0240 @epoch 5
+
+Test set: BCE loss: 0.3126 MSE loss: 173.5164 Reconstruction loss 971061.9375 Mean Batch Misclassification 0.0757 GCI Misses 0.0226
+
+Train Net Loss: 1003284.0081 BCE Loss 0.3028 MSE Loss 171.1882 Reconstruction Loss 1003266.5847 Mean Batch Misclassification 0.0770 GCI Misses 0.0204 @epoch 6
+Train Net Loss: 1000690.4940 BCE Loss 0.3081 MSE Loss 169.9558 Reconstruction Loss 1000673.1895 Mean Batch Misclassification 0.0761 GCI Misses 0.0195 @epoch 7
+Train Net Loss: 997913.9879 BCE Loss 0.3119 MSE Loss 170.5070 Reconstruction Loss 997896.6310 Mean Batch Misclassification 0.0767 GCI Misses 0.0187 @epoch 8
+Train Net Loss: 995826.0383 BCE Loss 0.3163 MSE Loss 171.2250 Reconstruction Loss 995808.5968 Mean Batch Misclassification 0.0771 GCI Misses 0.0183 @epoch 9
+Train Net Loss: 994278.7863 BCE Loss 0.3225 MSE Loss 172.2835 Reconstruction Loss 994261.2339 Mean Batch Misclassification 0.0768 GCI Misses 0.0185 @epoch 10
+
+Test set: BCE loss: 0.3799 MSE loss: 168.7969 Reconstruction loss 960072.5000 Mean Batch Misclassification 0.0749 GCI Misses 0.0207
+
+Train Net Loss: 992923.3911 BCE Loss 0.3265 MSE Loss 169.5858 Reconstruction Loss 992906.1048 Mean Batch Misclassification 0.0775 GCI Misses 0.0186 @epoch 11
+Train Net Loss: 991915.6331 BCE Loss 0.3182 MSE Loss 168.5498 Reconstruction Loss 991898.4597 Mean Batch Misclassification 0.0771 GCI Misses 0.0185 @epoch 12
+Train Net Loss: 990706.1169 BCE Loss 0.3171 MSE Loss 168.8513 Reconstruction Loss 990688.9133 Mean Batch Misclassification 0.0770 GCI Misses 0.0187 @epoch 13
+Train Net Loss: 989562.7258 BCE Loss 0.3098 MSE Loss 168.2627 Reconstruction Loss 989545.5907 Mean Batch Misclassification 0.0759 GCI Misses 0.0185 @epoch 14
+Train Net Loss: 988843.8690 BCE Loss 0.3023 MSE Loss 167.8480 Reconstruction Loss 988826.7802 Mean Batch Misclassification 0.0754 GCI Misses 0.0184 @epoch 15
+
+Test set: BCE loss: 0.3410 MSE loss: 166.5487 Reconstruction loss 955437.5000 Mean Batch Misclassification 0.0726 GCI Misses 0.0192
+
+Train Net Loss: 988182.2964 BCE Loss 0.2961 MSE Loss 169.0039 Reconstruction Loss 988165.0988 Mean Batch Misclassification 0.0741 GCI Misses 0.0185 @epoch 16
+Train Net Loss: 987488.6875 BCE Loss 0.2901 MSE Loss 166.7957 Reconstruction Loss 987471.7218 Mean Batch Misclassification 0.0736 GCI Misses 0.0183 @epoch 17
+Train Net Loss: 986777.4153 BCE Loss 0.2836 MSE Loss 167.0299 Reconstruction Loss 986760.4274 Mean Batch Misclassification 0.0726 GCI Misses 0.0186 @epoch 18
+Train Net Loss: 986369.3690 BCE Loss 0.2795 MSE Loss 168.0136 Reconstruction Loss 986352.2863 Mean Batch Misclassification 0.0722 GCI Misses 0.0185 @epoch 19
+Train Net Loss: 985834.3065 BCE Loss 0.2763 MSE Loss 169.6759 Reconstruction Loss 985817.0605 Mean Batch Misclassification 0.0721 GCI Misses 0.0185 @epoch 20
+
+Test set: BCE loss: 0.3107 MSE loss: 167.0185 Reconstruction loss 952829.5000 Mean Batch Misclassification 0.0683 GCI Misses 0.0199
